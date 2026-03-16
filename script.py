@@ -5,3 +5,5 @@ print("\n------ Result ------")
 print(f"Hello {name}!")
 print(f"Your word in uppercase is: {text.upper()}")
 print("--------------------")
+
+print("*** Script Completed Successfully ***")
