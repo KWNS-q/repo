@@ -7,3 +7,6 @@ print(f"Your word in uppercase is: {text.upper()}")
 print("--------------------")
 
 print("*** Script Completed Successfully ***")
+
+def greet(name):
+    return f"Hello, {name}!"
