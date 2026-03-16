@@ -10,3 +10,6 @@ print("*** Script Completed Successfully ***")
 
 def greet(name):
     return f"Hello, {name}!"
+
+# This script accepts user input and performs string operations
+# Author: KWNS-q
