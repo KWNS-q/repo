@@ -13,3 +13,8 @@ def greet(name):
 
 # This script accepts user input and performs string operations
 # Author: KWNS-q
+
+try:
+    number = int(input("Enter a number: "))
+except ValueError:
+    print("Please enter a valid integer!")
